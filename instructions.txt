@@ -1,0 +1,20 @@
+Api sniffing program: fiddler,
+
+tinder appId, required in apps: 464891386855067
+
+Tinder is sneaky and they have limited Access-Control-Allow-Origin.
+
+
+
+
+
+
+
+
+
+
+getting token link, rest in the instruction.txt
+https://www.facebook.com/v2.6/dialog/oauth?redirect_uri=fb464891386855067%3A%2F%2Fauthorize%2F&display=touch&state=%7B%22challenge%22%3A%22IUUkEUqIGud332lfu%252BMJhxL4Wlc%253D%22%2C%220_auth_logger_id%22%3A%2230F06532-A1B9-4B10-BB28-B29956C71AB1%22%2C%22com.facebook.sdk_client_state%22%3Atrue%2C%223_method%22%3A%22sfvc_auth%22%7D&scope=user_birthday%2Cuser_photos%2Cuser_education_history%2Cemail%2Cuser_relationship_details%2Cuser_friends%2Cuser_work_history%2Cuser_likes&response_type=token%2Csigned_request&default_audience=friends&return_scopes=true&auth_type=rerequest&client_id=464891386855067&ret=login&sdk=ios&logger_id=30F06532-A1B9-4B10-BB28-B29956C71AB1&ext=1470840777&hash=AeZqkIcf-NEW6vBd
+
+my tinder fb token:
+for (;;);{"__ar":1,"__sf":"i0","payload":null,"jsmods":{"require":[["ServerRedirect","redirectPageTo",[],["fb464891386855067:\/\/authorize\/#state=\u00257B\u002522challenge\u002522\u00253A\u002522IUUkEUqIGud332lfu\u0025252BMJhxL4Wlc\u0025253D\u002522\u00252C\u0025220_auth_logger_id\u002522\u00253A\u00252230F06532-A1B9-4B10-BB28-B29956C71AB1\u002522\u00252C\u002522com.facebook.sdk_client_state\u002522\u00253Atrue\u00252C\u0025223_method\u002522\u00253A\u002522sfvc_auth\u002522\u00257D&granted_scopes=user_birthday\u00252Cuser_relationship_details\u00252Cuser_likes\u00252Cuser_education_history\u00252Cuser_work_history\u00252Cuser_photos\u00252Cuser_friends\u00252Cuser_about_me\u00252Cemail\u00252Ccontact_email\u00252Cpublic_profile&denied_scopes=&signed_request=uzDnbLY_uu37Xv14q5VB24O-qyOcx2RWRwfEzdgjK98.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImNvZGUiOiJBUUNodUFuVDhoYk5HWDMyV1hfVUJfano5Z1pFbk1aaW1JRWNmTGxxSWdaZFdSZXY0NXR6dG84S2dlbjB1Q0JoVjJGOV9qMzBWMzhQaEU5UmxOVlZUaE1GRG9EVmk3eWhCdWhkSE1xMFNRaWVuVnp3Mm0yd3NTY2hsUEJubTA5eHliMUVFaTZJSGJOWkY0VkY1MGw0REVjM0FBUVhBMVdLcVlOai00U1pnX2Q1X2wtXzMxd1BNdkdUcThiZC1uQVlsOGczUjhvSGVuaFBiVVFCeXRjb1JDZTlYVjRvTnVwT1QxckVzUkc1cElabk4td0dtUGtQeHBTNmdNWUdVX2hmcF8wYi11bGRsSTNoRXQ5SG5rWWI3RDgwOEt3VENmSmFSdjJRZkRlZjZORHdxVGEtOVRKVGwySUJIbDRrU2l5RTlEdlV1RHR0YWFxeXJMSUZ3a0FvZ05IaXFqQlE4c1hWSFBaV3BlVEdfU1RvbDV6aWJQY1l6SnczWTFLN1g0amhBeUVtZ25BOURaTnB1RmhmTDdoNDZ5NDAiLCJpc3N1ZWRfYXQiOjE0ODU4Njc2MTQsInVzZXJfaWQiOiI2MjAyMTY4ODgwNzcxNzcifQ&access_token=EAAGm0PX4ZCpsBAFOVERFjKqahx4UkWe3igKr4Jk2ewV5fhjrCljM93JNPY1KKhLZACsEM07MfKyjQSq3uABWgyw9SC4AVrhJZAPAJbuOzZA5bMFfvFeCmt0M19wRZBzujfFpKobWYT6XBEVkn7wHZA3aSA0p0g6p6RPMxdsb0rLOdvx3wHPFPpy7CThI2Vd2B4pGujcnMa8nmMqekQmvRv08pcuDkJPZArSlU8iWwLmQQzGB9OqzvLsRurZC7TMG1TwZD&expires_in=7186",true,false],[]]]},"js":["q0abx"],"bootloadable":{},"resource_map":{"q0abx":{"type":"js","src":"https:\/\/www.facebook.com\/rsrc.php\/v3imda4\/y9\/l\/pl_PL\/zuIWVsUe-dh.js","crossOrigin":1}},"ixData":{},"lid":"6381752809794699909"}

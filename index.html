@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tinder find user location App</title>
+    <script src="TinderWebAPI.js"></script>
+    <script src="FakeDataProvider.js"></script>
+    <script src="SphericalTrilaterationLibrary.js"></script>
+    <script src="TransformCordsToCartesianAndTrilaterate.js"></script>
+    <script src="CirclesIntersection.js"></script>
+    <script src="TinderPosBreaker.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+    <body>
+        <button class="loginButton" onclick="TinderWebAPI.tinderAuthenticate()">Login To Tinder through facebook</button>
+        <button class="loginButton" onclick="TinderWebAPI.tinderUpdatePosition(52.1,19.001)">Ping position</button>
+        <button class="loginButton" onclick="TinderWebAPI.tinderMyMatches()">Show your matches</button>
+        <button class="loginButton" onclick="TinderWebAPI.tinderRecommendations()">Show your Recomendations</button>
+        <button class="loginButton" onclick="TinderWebAPI.getUserDetails('5752fa576261ae3a139e2873')">Get User details</button>
+        <!--<button class="loginButton" onclick="getUserPositionOnFakeData()">Get User position on fake data</button>-->
+        <button class="loginButton" onclick="getUserPositionOnTrueData()">Get User position on true data</button>
+    </body>
+</html>
